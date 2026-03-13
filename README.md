@@ -18,4 +18,4 @@
 │── README.md
  
  ## Live Demo 
-- https://anandullegaddi25-tech.github.io/Animition-of-CSS/
+https://anandullegaddi25-tech.github.io/Animation-of-CSS/
